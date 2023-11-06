@@ -6,10 +6,11 @@ The challenge of this project was to make the application interactive and tailor
 
 This is an Augment reality software controled by speech recognition. User can control robot and space by speech commands.
 
+
 See the workflow diagram below!!!
 ![workflow-01](https://github.com/Nannoi/AerobotAR/assets/126888189/b8f1e32c-532b-4fd7-b9fd-5ca0dd04faa7)
 
 Watch this video!!!
 
-[![AerobotAR](https://img.youtube.com/vi/nnbhwC07Bl4/0.jpg)](https://youtu.be/nnbhwC07Bl4)
+[![AerobotAR](https://img.youtube.com/vi/0ouD1ZHSt_w/0.jpg)](https://youtu.be/0ouD1ZHSt_w)
 
